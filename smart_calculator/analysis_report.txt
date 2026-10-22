@@ -1,0 +1,16 @@
+=== Flake8 Analysis ===
+.\calculator.py:47:72: W292 no newline at end of file
+
+=== Pylint Analysis ===
+************* Module operations.py
+operations.py:1:0: F0001: No module named operations.py (fatal)
+************* Module main.py
+main.py:1:0: F0001: No module named main.py (fatal)
+************* Module calculator
+calculator.py:47:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
+
+=== Bandit Analysis ===
